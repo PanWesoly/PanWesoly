@@ -17,7 +17,7 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PanWesoly&theme=tokyonight)
 
 ## 📌 Aktualne projekty
-- 🔹 Discord boty (JS / Node.js)
+- 🔹 Discord boty (Node.js)
 - 🔹 Integracje z serwerami gier
 
 ## 📫 Kontakt
