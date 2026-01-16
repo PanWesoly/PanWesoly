@@ -1,44 +1,46 @@
+<h1 align="center">👋 Cześć, jestem Wesolyxd</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3500&color=6AA6FF&center=true&vCenter=true&width=700&lines=Wesolyxd;Discord+Bot+Developer;MTA%3ASA+Lua+Scripter" />
+  <strong>Discord bot developer</strong> &middot; <strong>MTA:SA Lua scripter</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9DA7B3&center=true&vCenter=true&width=700&lines=Node.js+%7C+Python+%7C+Lua;Bots%2C+API%2C+Game+Scripting" />
+  Node.js &nbsp;•&nbsp; Python &nbsp;•&nbsp; Lua
 </p>
 
 ---
 
 ## 🛠 Tech stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,lua&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6AA6FF" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6AA6FF" />
+  <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=6AA6FF" />
 </p>
 
 ---
 
 ## 🚀 Co robię
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&color=6AA6FF&center=true&vCenter=true&width=650&lines=Discord+boty+%28slash+commands%2C+role%2C+webhooki%29;Integracje+API+i+automatyzacje;MTA%3ASA+%2F+game+scripting" />
-</p>
+- 🤖 Tworzę **Discord boty** (slash commands, role, webhooki)
+- ⚙️ Piszę **skrypty i integracje API**
+- 🎮 Programuję **MTA:SA / game scripting**
 
 ---
 
-## 📊 GitHub stats
-<p align="center">
+## 📊 GitHub
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanWesoly&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PanWesoly&theme=github_dark" />
 </p>
 
 ---
 
-## 📌 Aktualne projekty
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9DA7B3&center=true&vCenter=true&width=650&lines=Discord+boty+%28Node.js%29;Integracje+z+serwerami+gier" />
-</p>
+## 📌 Aktualnie
+- 🔹 Discord boty w **Node.js**
+- 🔹 Integracje z **serwerami gier**
 
 ---
 
 ## 📫 Kontakt
-<p align="center">
+<p>
   <a href="https://discord.com/users/1214614155286552639" target="_blank">
     <img src="https://img.shields.io/badge/Discord-uwagapolicja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
