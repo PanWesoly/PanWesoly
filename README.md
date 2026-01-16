@@ -21,4 +21,8 @@
 - 🔹 Integracje z serwerami gier
 
 ## 📫 Kontakt
-- 💬 Discord: **uwagapolicja**
+<p align="center">
+  <a href="https://discord.com/users/TWOJE_ID_DISCORDA" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-uwagapolicja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
