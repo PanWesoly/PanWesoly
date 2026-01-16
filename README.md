@@ -1,4 +1,4 @@
-# 👋 Cześć, jestem PanWesoly
+# 👋 Cześć, jestem Wesolyxd
 
 💻 **Developer & automation enthusiast**
 
