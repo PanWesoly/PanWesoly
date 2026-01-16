@@ -22,7 +22,7 @@
 
 ## 📫 Kontakt
 <p align="center">
-  <a href="https://discord.com/users/TWOJE_ID_DISCORDA" target="_blank">
+  <a href="https://discord.com/users/1214614155286552639" target="_blank">
     <img src="https://img.shields.io/badge/Discord-uwagapolicja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
