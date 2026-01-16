@@ -15,8 +15,8 @@
 - 🎮 MTA / game scripting
 
 ## 📊 Statystyki GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PanWesoly&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanWesoly&layout=compact&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanWesoly&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PanWesoly&theme=tokyonight)
 
 ## 📌 Aktualne projekty
 - 🔹 Discord boty (JS / Node.js)
