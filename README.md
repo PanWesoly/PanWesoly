@@ -1,12 +1,10 @@
 # 👋 Cześć, jestem Wesolyxd
 
-💻 **Developer & automation enthusiast**
+💻 **Discord bot developer & MTA:SA Lua scripter**
 
 ## 🛠 Tech stack
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
-![PHP](https://img.shields.io/badge/PHP-black?logo=php)
 ![Lua](https://img.shields.io/badge/Lua-black?logo=lua)
 
 ## 🚀 Co robię
